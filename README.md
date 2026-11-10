@@ -1,5 +1,7 @@
 # 全港小學比賽地圖
 
+> 🔗 線上版：https://tyhcch1234.github.io/hk-primary-competitions/
+
 為小三、小四學生而設的香港比賽清單網站，目標是兩年內累積一份講得出口的中一 portfolio。
 
 - 50 項比賽，11 個類別
